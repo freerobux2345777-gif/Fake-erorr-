@@ -1,0 +1,2 @@
+# Fake-erorr-
+Prank script
